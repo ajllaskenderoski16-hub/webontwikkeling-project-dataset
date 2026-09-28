@@ -1,0 +1,75 @@
+[    
+    {
+        "id": "FAM-IMAC",
+            "name": "iMac",
+            "type": "All-in-one Computers",
+            "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/family-images/imac.jpg",
+            "releaseYear": 1998,            
+            "related": ["Mac Mini", "Mac Pro"]
+    },
+    {
+        "id": "FAM-IBOOK",
+            "name": "iBook",
+            "type": "Laptop",
+            "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/family-images/ibook.webp",
+            "releaseYear": 1984,            
+            "related": ["Apple II", "Apple Lisa", "iPad"]
+    },
+    {
+        "id": "FAM-POWMAC",
+            "name": "Power Macintosh",
+            "type": "Desktop",
+            "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/family-images/powermacintosh.png",
+            "releaseYear": 1994,            
+            "related": ["Mac Mini", "Mac Pro"]
+    },
+    {
+        "id": "FAM-DISPLAY",
+            "name": "Apple Displays",
+            "type": "Computer Monitor",
+            "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/family-images/displays.jpg",
+            "releaseYear": 1998,            
+            "related": ["Power Mac G5", "Power Mac G4 Cube"]
+    },
+    {
+        "id": "FAM-IPODCLASS",
+            "name": "iPod Classic",
+            "type": "Portable Media Player",
+            "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/family-images/ipod.png",
+            "releaseYear": 2001,            
+            "related": ["iPhone", "iPad"]
+    },
+    {
+        "id": "FAM-IPHONE",
+            "name": "iPhone",
+            "type": "Smartphone",
+            "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/family-images/iphone.webp",
+            "releaseYear": 2007,            
+            "related": ["iPad", "iPod Touch"]
+    },
+    {
+        "id": "FAM-IPAD",
+            "name": "iPad",
+            "type": "Tablet",
+            "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/family-images/ipad.png",
+            "releaseYear": 2010,            
+            "related": ["iPone", "iPod Touch"]
+    },
+    {
+        "id": "FAM-HEADPHONES",
+            "name": "Apple Headphones",
+            "type": "Headphones",
+            "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/family-images/headphones.jpg",
+            "releaseYear": 2001,            
+            "related": ["Apple Speakers", "iPod"]
+    },
+    {
+        "id": "FAM-AIRPORT",
+            "name": "Airport",
+            "type": "Wireless Base Stations and Cards",
+            "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/family-images/airport.jpg",
+            "releaseYear": 1999,            
+            "related": ["AirPort Card", "AirPort Time Capsule"]
+    }
+
+]

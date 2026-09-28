@@ -1,0 +1,203 @@
+[
+    {
+        "id":"APL-001",
+        "name": "iMac G3",
+        "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/products-images/imacg3.webp",
+        "releaseDate": "1998-08-15",
+        "discontinued": true,
+        "description": "The iMac was Apple's first major product release under CEO Steve Jobs. The iMac was designed as Apple's new consumer desktop product—an inexpensive, consumer-oriented computer that would easily connect to the Internet.",
+        "weightInKGInKG": 15.7,
+        "colors": ["Bondi Blue", "Blueberry", "Grape", "Tangerine", "Lime", "Strawberry"],
+        "storageCapacity": "4-6 GB",
+        "operatingSystem": "Mac OS 8.1",
+        "predecessors": ["Power Macintosh 5400", "Power Macintosh 5500"],
+        "family": {
+            "id": "FAM-IMAC",
+            "name": "iMac",
+            "type": "All-in-one Computers",
+            "releaseYear": 1998,            
+            "relatedProducts": ["Mac Mini", "Mac Pro"]
+        }         
+    },
+    {
+        "id":"APL-002",
+        "name": "iMac G4",
+        "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/products-images/imacg4.jpg",
+        "releaseDate": "2002-01-07",
+        "discontinued": true,
+        "description": "The iMac G4 is a personal computer, it comprises a hemispheric base that holds the components, including a PowerPC G4 processor, and a flatscreen liquid-crystal display (LCD) mounted above. The display is connected to the base via an adjustable arm that allows the monitor to be tilted and swiveled.",
+        "weightInKGInKG": 9.7,
+        "colors": ["White"],
+        "storageCapacity": "40, 60, 80 GB",
+        "operatingSystem": "Mac OS X Panther 10.3",
+        "predecessors": ["iMac G3", "Power Macintosh 5400"],
+        "family": {
+            "id": "FAM-IMAC",
+            "name": "iMac",
+            "type": "All-in-one Computers",
+            "releaseYear": 1998,            
+            "relatedProducts": ["Mac Mini", "Mac Pro"]
+        }
+    },
+    {
+        "id":"APL-003",
+        "name": "iBook G3",
+        "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/products-images/ibookg3.jpg",
+        "releaseDate": "1999-07-21",
+        "discontinued": true,
+        "description": "The iBook was introduced as a low-cost portable Mac for the consumer market. It was the first mainstream computer designed and sold with integrated wireless networking.",
+        "weightInKGInKG": 3.0,
+        "colors": ["Blueberry", "Tangerine", "Graphite", "Indigo", "Key Lime"],
+        "storageCapacity": "3.2-10 GB",
+        "operatingSystem": "Mac OS 8.6",
+        "predecessors": ["PowerBook G3", "PowerBook 3400c", "Apple eMate 300"],
+        "family": {
+            "id": "FAM-IBOOK",
+            "name": "iBook",
+            "type": "Laptop",
+            "releaseYear": 1984,            
+            "relatedProducts": ["Apple II", "Apple Lisa", "iPad"]
+        }
+    },
+    {
+        "id":"APL-004",
+        "name": "Power Mac G4 Cube",
+        "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/products-images/Power_mac_g4_cube.png",
+        "releaseDate": "2000-07-19",
+        "discontinued": true,
+        "description": "The Power Mac G4 Cube is a Mac personal computer, conceived as a miniaturized but powerful computer by Apple chief executive officer (CEO) Steve Jobs and designed by Jony Ive.",
+        "weightInKGInKG": 6.4,
+        "colors": ["Clear/Gray"],
+        "storageCapacity": "20-60 GB",
+        "operatingSystem": "Mac OS 9",
+        "predecessors": ["NeXTcube"],
+        "family": {
+            "id": "FAM-POWMAC",
+            "name": "Power Macintosh",
+            "type": "Desktop",
+            "releaseYear": 1998,            
+            "relatedProducts": ["Mac Mini", "Mac Pro"]
+        }
+    },
+    {
+        "id":"APL-005",
+        "name": "Cinema Display",
+        "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/products-images/cinemadisplay.jpg",
+        "releaseDate": "1999-09-01",
+        "discontinued": true,
+        "description": "The Apple Cinema Display is a discontinued line of flat-panel computer monitors. It was initially sold alongside the older line of Studio Displays, but eventually replaced them. Apple offered 20, 22, 23, 24, 27, and 30-inch sizes, with the last model being a 27-inch size with LED backlighting.",
+        "weightInKG": "15.7 - 17.3kg",
+        "colors": ["Bondi Blue", "Blueberry", "Grape", "Tangerine", "Lime", "Strawberry"],
+        "storageCapacity": "4-6 GB",
+        "operatingSystem": "Mac OS 8.1",
+        "predecessors": ["Apple Studio Display"],
+        "family": {
+            "id": "FAM-DISPLAY",
+            "name": "Apple Displays",
+            "type": "Computer Monitor",
+            "releaseYear": 1998,            
+            "relatedProducts": ["Power Mac G5", "Power Mac G4 Cube"]
+        }
+    },
+    {
+        "id":"APL-006",
+        "name": "iPod Classic 6th generation",
+        "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/products-images/ipodclassic.webp",
+        "releaseDate": "2007-09-05",
+        "discontinued": true,
+        "description": "The 6th-generation iPod, marketed as the iPod classic, is the only full-sized iPod generation to be officially named with the suffix 'classic'. With a capacity of up to 160GB, it was the largest amount of storage ever shipped with a Click Wheel-based iPod model. This is also the last model of the retroactively-named iPod/iPod classic line, which was discontinued in September 2014.",
+        "weightInKG": 0.140,
+        "colors": ["Silver", "Black"],
+        "storageCapacity": "80, 120, 160 GB",
+        "operatingSystem": "iPod OS",
+        "predecessors": ["iPod Classic 5th generation", "iPod Shuffle", "iPod Mini"],
+        "family": {
+            "id": "FAM-IPODCLASS",
+            "name": "iPod Classic",
+            "type": "Portable Media Player",
+            "releaseYear": 1998,            
+            "relatedProducts": ["iPhone", "iPad"]
+        }
+    },
+    {
+        "id":"APL-007",
+        "name": "iPhone 5c",
+        "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/products-images/iphone5c.webp",
+        "releaseDate": "2013-09-20",
+        "discontinued": true,
+        "description": "The iPhone 5c is a variant of the iPhone 5, with similar hardware specifications but a hard-coated polycarbonate shell instead of the aluminum of the original iPhone 5. The iPhone 5c is part of the sixth generation of the iPhone.",
+        "weightInKGInKG": 0.132,
+        "colors": ["White", "Blue", "Green", "Yellow", "Pink"],
+        "storageCapacity": "8, 16, 32 GB",
+        "operatingSystem": "7.0",
+        "predecessors": ["iPhone 4", "iPhone 4s"],
+        "family": {
+            "id": "FAM-IPHONE",
+            "name": "iPhone",
+            "type": "Smartphone",
+            "releaseYear": 2001,            
+            "relatedProducts": ["iPad", "iPod Touch"]
+        }
+    },
+    {
+        "id":"APL-008",
+        "name": "iPad Air (4th generation)",
+        "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/products-images/ipadair4thgen.webp",
+        "releaseDate": "2020-10-23",
+        "discontinued": true,
+        "description": "The iPad Air (4th generation), informally referred to as iPad Air 4, closely resembles the design of the 11-inch iPad Pro (3rd generation) and has several features that were previously exclusive to the iPad Pro line, such as support for the iPad Magic Keyboard and the second-generation Apple Pencil.",
+        "weightInKG": 0.458,
+        "colors": ["Space Gray", "Silver", "Rose Gold", "Green", "Sky Blue"],
+        "storageCapacity": "64 or 256 GB",
+        "operatingSystem": "iPad OS 14",
+        "predecessors": ["iPad Air (3rd generation)", "iPad Air 2", "iPad Air (1st generation)"],
+        "family": {
+            "id": "FAM-IPAD",
+            "name": "iPad",
+            "type": "Tablet",
+            "releaseYear": 2010,            
+            "relatedProducts": ["iPhone", "iPod Touch"]
+        }
+    },
+    {
+        "id":"APL-009",
+        "name": "Airpods Max",
+        "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/products-images/airpodsmax.jpg",
+        "releaseDate": "2020-12-15",
+        "discontinued": true,
+        "description": "AirPods Max are wireless Bluetooth over-ear headphones, Apple's highest-end option in the AirPods lineup. The main changes of the AirPods Max over the mid-range AirPods Pro are the over-ear design with larger speakers, inclusion of Apple's Digital Crown, more color options, and longer battery life.",
+        "weightInKG": 0.385,
+        "colors": ["Space Gray", "Silver", "Sky Blue", "Green", "Pink"],
+        "storageCapacity": "none",
+        "operatingSystem": "Apple H1",
+        "predecessors": ["AirPods", "AirPods Pro"],
+        "family": {
+            "id": "FAM-HEADPHONES",
+            "name": "Apple Headphones",
+            "type": "Headphones",
+            "releaseYear": 2001,            
+            "relatedProducts": ["Apple Speakers", "iPod"]
+        }
+    },
+    {
+        "id":"APL-010",
+        "name": "AirPort Base Station",
+        "imageURL": "https://raw.githubusercontent.com/ajllaskenderoski16-hub/webontwikkeling-project-dataset/main/products-images/airportbasestationgraphite.jpg",
+        "releaseDate": "1999-07-21",
+        "discontinued": true,
+        "description": "The original AirPort Base Station features a dial-up modem and an Ethernet port. Is was Apple's first commercial wireless router and the first mainstream consumer product to implement the 802.11b Wi-Fi standard.",
+        "weightInKG": 0.565,
+        "colors": ["Graphite"],
+        "storageCapacity": "none",
+        "operatingSystem": "Airport Firmware",
+        "predecessors": ["none"],
+        "family": {
+            "id": "FAM-AIRPORT",
+            "name": "AirPort",
+            "type": "Wireless Base Stations and Cards",
+            "releaseYear": 1999,            
+            "relatedProducts": ["AirPort Card", "AirPort Time Capsule"]
+        }
+    }
+    
+]
